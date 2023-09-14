@@ -1,10 +1,11 @@
 # Restaurant Management System
 
 ## Project Description
-A restaurant management system is essential for you to run your restaurant efficiently and smoothly. You may not be at the restaurant at all times but you must have access to this data at all times and a robust restaurant management system helps you do just that.
-
+"Presenting our Restaurant Booking Website: A sophisticated platform designed to streamline restaurant reservations, allowing users to effortlessly search for dining establishments by location and price range. This robust system encompasses essential features including user registration, table management, financial reporting, employee supervision, menu administration, and more. With a focus on convenience, it facilitates online payments, sends booking confirmations through email and WhatsApp, and upholds paramount non-functional considerations such as security and scalability to deliver a refined and seamless dining experience."
 ## Frontend Tools
 - .Net Framework
 
 ## Backend
 - C#
+## DataBase
+-Microsoft Sql Server
