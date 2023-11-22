@@ -6,6 +6,7 @@
 - Flutter
 
 ## Backend
-- Dart
+- node.js
+  
 ## DataBase
-- Firebase
+- Mongodb
